@@ -1,2 +1,2 @@
 # Mongo_Atlas
-Adding the in the MongoDB Atlas via HTML Form and storing it in JSON Format
+Adding the information of a user in the MongoDB Atlas via HTML Form and storing it in JSON Format
