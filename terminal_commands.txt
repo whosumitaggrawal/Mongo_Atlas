@@ -1,0 +1,11 @@
+Adding the information of a user in the MongoDB Atlas via HTML Form and storing it in JSON Format
+
+commands for the terminal
+
+to install the package : npm init
+
+to install the required things : npm i express mongoose body-parser
+
+for starting the server : nodemon server.js
+
+
